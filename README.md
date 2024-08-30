@@ -12,3 +12,6 @@ https://posit.co/download/rstudio-desktop/
 ---- Installation guide ----
 https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027#.mr74smj4c
 
+---- run ANN.r, Cor.r, RD.r-------
+run each file seperately
+
