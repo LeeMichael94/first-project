@@ -15,3 +15,6 @@ https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f70802
 ---- run ANN.r, Cor.r, RD.r-------
 run each file seperately
 
+--- Documentation ------
+LBT Forex Recommendation System.pdf
+
